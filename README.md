@@ -6,6 +6,7 @@ Projeto python para manipular PDF no dia a dia (comprime, separa, etc)
  - Separa Páginas PDF: Separa as páginas de um arquivo PDF
 
 ## Como Usar
+Exemplo Comprimir Arquivos PDF:
 - Coloque os arquivos pdf avulsos na pasta filesToBeCompressed
 - Instale as dependencia contidas pip.txt
 - Rode python main.py
